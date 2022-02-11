@@ -1,0 +1,47 @@
+when is the project due|project|DUEDATE|project|DUEDATE1|1.0|1.0
+when is the first project due|first project|DUEDATE|first project|DUEDATE2|2.0|2.0
+when is project 1 due|project 1|DUEDATE|project 1|DUEDATE3|3.0|3.0
+what is the due date for project 1|project 1|DUEDATE|project 1|DUEDATE4|4.0|4.0
+when is the project released|project|RELEASEDATE|project|RELEASEDATE5|5.0|5.0
+how much is the project worth|project|WEIGHT|project|WEIGHT6|6.0|6.0
+where do I turn in my project|project|PROCESS|project|PROCESS7|7.0|7.0
+where is the project specification|project specification|PROCESS|project specification|PROCESS8|8.0|8.0
+how long do we have to complete a project|project|DURATION|project|DURATION9|9.0|9.0
+how long do we have to complete a project|project|DURATION|project|DURATION10|10.0|10.0
+When is the second project release date|second project|RELEASEDATE|second project|RELEASEDATE11|11.0|11.0
+When is the project two release date|project two|RELEASEDATE|project two|RELEASEDATE12|12.0|12.0
+When is the project 2 release date|project 2|RELEASEDATE|project 2|RELEASEDATE13|13.0|13.0
+When will the ticket be released|ticket|RELEASEDATE|ticket|RELEASEDATE14|14.0|14.0
+When must the statement be turned in|statement|DUEDATE|statement|DUEDATE15|15.0|15.0
+When must order 5 be turned in|order 5|DUEDATE|order 5|DUEDATE16|16.0|16.0
+When must project 1000 be turned in|project 1000|DUEDATE|project 1000|DUEDATE17|17.0|17.0
+When must project 42 be turned in|project 42|DUEDATE|project 42|DUEDATE18|18.0|18.0
+When must project 4 be turned in|project 4|DUEDATE|project 4|DUEDATE19|19.0|19.0
+when must project 3 be turned in|project 3|DUEDATE|project 3|DUEDATE20|20.0|20.0
+where is the project specification|project specification|PROCESS|project specification|PROCESS21|21.0|21.0
+Where do I submit the goldfish|goldfish|PROCESS|goldfish|PROCESS22|22.0|22.0
+Where am I supposed to submit the project|project|PROCESS|project|PROCESS23|23.0|23.0
+Where will project 1 be released|project 1|PROCESS|project 1|PROCESS24|24.0|24.0
+Where would I find the homework|homework|PROCESS|homework|PROCESS25|25.0|25.0
+Where would someone locate the homework|homework|PROCESS|homework|PROCESS26|26.0|26.0
+Where do we go to turn in the project|project|PROCESS|project|PROCESS27|27.0|27.0
+Where is the location of project1 specified|project1|PROCESS|project1|PROCESS28|28.0|28.0
+What is the quiz2 release date|quiz2|RELEASEDATE|quiz2|RELEASEDATE29|29.0|29.0
+What is the project release date|project|RELEASEDATE|project|RELEASEDATE30|30.0|30.0
+What is the project due date|project|DUEDATE|project|DUEDATE31|31.0|31.0
+What percentage of my grade will the project be worth|project|WEIGHT|project|WEIGHT32|32.0|32.0
+What percentage of my grade is assignment 1 worth|assignment 1|WEIGHT|assignment 1|WEIGHT33|33.0|33.0
+What is the procedure for submitting project 1|project 1|PROCESS|project 1|PROCESS34|34.0|34.0
+what is the process for submitting the assignment|assignment|PROCESS|assignment|PROCESS35|35.0|35.0
+How much does quiz 1 contribute to my grade|quiz 1|WEIGHT|quiz 1|WEIGHT36|36.0|36.0
+how many weeks do I have to complete an assignment|assignment|DURATION|assignment|DURATION37|37.0|37.0
+How much is the project contributing to my grade|project|WEIGHT|project|WEIGHT38|38.0|38.0
+How much time is there for submitting project 1|project 1|DURATION|project 1|DURATION39|39.0|39.0
+How do i submit the first assignment|first assignment|PROCESS|first assignment|PROCESS40|40.0|40.0
+How do I submit the tenth assignment|tenth assignment|PROCESS|tenth assignment|PROCESS41|41.0|41.0
+
+
+count,object,datatype
+41|41.0|41.0
+
+

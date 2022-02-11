@@ -1,0 +1,58 @@
+[
+    {
+        "question":"what percentage of my grade will the project be worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"what is the due date for project 1",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"What is the project2 release date",
+        "object":"project2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"What is the quiz2 release date",
+        "object":"quiz2",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"What is the project release date",
+        "object":"project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"What is the project due date",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question": "What percentage of my grade will the project be worth",
+        "object": "project",
+        "data_requested": "WEIGHT"
+    },
+    {
+        "question":"What percentage of my grade is assignment 1 worth",
+        "object":"assignment 1",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question": "What is the procedure for submitting project 1",
+        "object": "project 1",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "what is the process for submitting the assignment",
+        "object": "assignment",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question": "What are the due dates for submitting project",
+        "object": "project",
+        "data_requested": "PROCESS"
+    }
+]
+

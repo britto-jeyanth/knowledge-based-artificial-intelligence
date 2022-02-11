@@ -1,0 +1,128 @@
+[
+    {
+        "question":"how much is the project worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"how long do we have to complete a project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"How much does the project contribute to my grade",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"How much does the quiz1 contribute to my grade",
+        "object":"quiz1",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"How do I download project 1",
+        "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"how many days do we have to complete a project",
+        "object":"project",
+        "data_requested":"DURATION"
+    },
+    {
+        "question": "how long do we have to finish project 1",
+        "object": "project 1",
+        "data_requested": "DURATION"
+    },
+    {
+        "question":"How much does quiz 1 contribute to my grade",
+        "object":"quiz 1",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question": "how many weeks do I have to complete an assignment",
+        "object": "assignment",
+        "data_requested": "DURATION"
+    },
+    {
+        "question":"How much is the project contributing to my grade",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"How much time is there for submitting project 1",
+        "object":"project 1",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"How do i submit the first assignment",
+        "object":"first assignment",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"How do I submit the tenth assignment",
+        "object":"tenth assignment",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"How much is the project worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question": "How much is the class project worth",
+        "object": "class project",
+        "data_requested": "WEIGHT"
+    },
+    {
+        "question":"How much is the project for this class worth",
+        "object":"project",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question": "How much was the project worth",
+        "object": "project",
+        "data_requested": "WEIGHT"
+    },
+    {
+        "question":"How many minutes does the endterm have",
+        "object":"endterm",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"How many minutes does the exam have",
+        "object":"exam",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"How long is the exam",
+        "object":"exam",
+        "data_requested":"DURATION"
+    },
+    {
+        "question":"How much of my grade is assignment 1 worth",
+        "object":"assignment 1",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question":"How much does project 1 weigh",
+        "object":"project 1",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question": "How many days do we have to complete the project",
+        "object": "project",
+        "data_requested": "DURATION"
+    },
+    {
+        "question":"How much does project 1 weigh",
+        "object":"project 1",
+        "data_requested":"WEIGHT"
+    },
+    {
+        "question": "How many days do we have to complete the project",
+        "object": "project",
+        "data_requested": "DURATION"
+    }
+]
+

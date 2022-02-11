@@ -1,0 +1,63 @@
+[
+    {
+        "question":"where is the project specification",
+        "object":"project specification",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"Where can I find the course syllabus",
+        "object":"course syllabus",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"Where is project 1 located",
+        "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"where do I turn in my project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"where is the project specification",
+        "object":"project specification",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"Where do I submit the goldfish",
+        "object":"goldfish",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question": "Where am I supposed to submit the project",
+        "object": "project",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question":"Where will project 1 be released",
+        "object":"project 1",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question": "Where would I find the homework",
+        "object": "homework",
+        "data_requested": "PROCESS"
+    },
+    {
+        "question":"Where would someone locate the homework",
+        "object":"homework",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"Where do we go to turn in the project",
+        "object":"project",
+        "data_requested":"PROCESS"
+    },
+    {
+        "question":"Where is the location of project1 specified",
+        "object":"project1",
+        "data_requested":"PROCESS"
+    }
+]
+

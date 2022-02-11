@@ -1,0 +1,16 @@
+when is the project due|project|DUEDATE|project|DUEDATE1|1.0|1.0
+when is the first project due|first project|DUEDATE|first project|DUEDATE2|2.0|2.0
+when is project 1 due|project 1|DUEDATE|project 1|DUEDATE3|3.0|3.0
+what is the due date for project 1|project 1|DUEDATE|due date project 1|DUEDATE4|3.0|4.0
+when is the project released|project|RELEASEDATE|project|DUEDATE5|4.0|4.0
+how much is the project worth|project|WEIGHT|project worth|DUEDATE6|4.0|4.0
+where do I turn in my project|project|PROCESS|project|DUEDATE7|5.0|4.0
+where is the project specification|project specificationt|PROCESS|project specification|DUEDATE8|5.0|4.0
+how long do we have to complete a project|project|DURATION|complete project|DUEDATE9|5.0|4.0
+what percentage of my grade will the project be worth|project|DURATION|percentage grade project|DUEDATE10|5.0|4.0
+
+
+count,object,datatype
+10|5.0|4.0
+
+

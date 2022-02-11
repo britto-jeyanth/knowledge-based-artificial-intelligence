@@ -1,0 +1,50 @@
+when
+['when', 'is', 'the', 'project', 'due']
+['when', 'is', 'the', 'project', 'due']
+['question word', 'helping verb', 'determiner word', 'project', 'jargon']
+project
+when
+['when', 'is', 'the', 'first', 'project', 'due']
+['when', 'is', 'the', 'first', 'project', 'due']
+['question word', 'helping verb', 'determiner word', 'first', 'project', 'jargon']
+first project
+when
+['when', 'is', 'project', '1', 'due']
+['when', 'is', 'project', '1', 'due']
+['question word', 'helping verb', 'project', '1', 'jargon']
+project 1
+what
+['what', 'is', 'the', 'due', 'date', 'for', 'project', '1']
+['what', 'is', 'the', 'due', 'date', 'for', 'project', '1']
+['question word', 'helping verb', 'determiner word', 'due', 'date', 'preposition', 'project', '1']
+due date project 1
+when
+['when', 'is', 'the', 'project', 'released']
+['when', 'is', 'the', 'project', 'released']
+['question word', 'helping verb', 'determiner word', 'project', 'jargon']
+project
+how
+['how', 'much', 'is', 'the', 'project', 'worth']
+['how', 'much', 'is', 'the', 'project', 'worth']
+['question word', 'question word', 'helping verb', 'determiner word', 'project', 'worth']
+project worth
+where
+['where', 'do', 'i', 'turn', 'in', 'my', 'project']
+['where', 'do', 'i', 'turn', 'in', 'my', 'project']
+['question word', 'helping verb', 'subject pronoun', 'verb', 'preposition', 'possessive pronoun', 'project']
+project
+where
+['where', 'is', 'the', 'project', 'specification']
+['where', 'is', 'the', 'project', 'specification']
+['question word', 'helping verb', 'determiner word', 'project', 'specification']
+project specification
+how
+['how', 'long', 'do', 'we', 'have', 'to', 'complete', 'a', 'project']
+['how', 'long', 'do', 'we', 'have', 'to', 'complete', 'a', 'project']
+['question word', 'question word', 'helping verb', 'subject pronoun', 'verb', 'preposition', 'complete', 'determiner word', 'project']
+complete project
+what
+['what', 'percentage', 'of', 'my', 'grade', 'will', 'the', 'project', 'be', 'worth']
+['what', 'percentage', 'of', 'my', 'grade', 'will', 'the', 'project', 'be', 'worth']
+['question word', 'percentage', 'preposition', 'possessive pronoun', 'grade', 'helping verb', 'determiner word', 'project', 'helping verb', 'verb']
+percentage grade project

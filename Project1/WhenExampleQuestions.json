@@ -1,0 +1,103 @@
+[
+    {
+        "question":"when is the project due",
+        "object":"project",
+        "data_requested":"DUEDATE"
+    },
+   {
+        "question":"when is the first project due",
+        "object":"first project",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is project 1 due",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when is the project released",
+        "object":"project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"When do I turn in project 1",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+   {
+        "question":"When will project grades be available",
+        "object":"project grades",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"When will final grades be released",
+        "object":"final grades",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"When is quiz 1 due",
+        "object":"quiz 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"When can we begin working on the project",
+        "object":"project",
+        "data_requested":"RELEASEDATE"
+    },
+   {
+        "question":"When must project 1 be turned in",
+        "object":"project 1",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"When is the second project release date",
+        "object":"second project",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"When is the project two release date",
+        "object":"project two",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"When is the project 2 release date",
+        "object":"project 2",
+        "data_requested":"RELEASEDATE"
+    },
+   {
+        "question":"When will the ticket be released",
+        "object":"ticket",
+        "data_requested":"RELEASEDATE"
+    },
+    {
+        "question":"When must the statement be turned in",
+        "object":"statement",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"When must order 5 be turned in",
+        "object":"order 5",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"When must project 1000 be turned in",
+        "object":"project 1000",
+        "data_requested":"DUEDATE"
+    },
+   {
+        "question":"When must project 42 be turned in",
+        "object":"project 42",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"When must project 4 be turned in",
+        "object":"project 4",
+        "data_requested":"DUEDATE"
+    },
+    {
+        "question":"when must project 3 be turned in",
+        "object":"project 3",
+        "data_requested":"DUEDATE"
+    }
+]
+
